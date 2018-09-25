@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1,Югра ТВ (Ханты-Мансийск) +2
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:-1,СТС
+http://31.185.0.40:8080/sts/playlist.m3u8
+#EXTINF:-1,НТВ
+http://31.185.0.40:8080/ntv/playlist.m3u8
+
+#EXTINF:-1,НТВ Молдова
+http://93.115.137.166/hls/ntvm.m3u8
